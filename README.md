@@ -14,8 +14,9 @@ Larger processing steps:
 
 
 Specific examples of inputs and outputs, mainly the easiest to code first:
+
 def create_event:
-    #Description: This retrieves data from the user on the range of availability
+    # Description: This retrieves data from the user on the range of availability
     start_time = input ('Please pick the beginning of the time you will be available:')
     end_time = input ('Please pick the end of the time you will  be available:')
     
